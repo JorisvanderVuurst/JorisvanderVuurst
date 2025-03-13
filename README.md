@@ -1,5 +1,5 @@
 # 💫 About Me:
-1.	I love python (i installed it and its venomous).<br>2.	I have a dog and cat called brammetje (dog) and tommie (cat).<br>3.	I like making gui i love making gui’s (graphical user interfaces).<br>4.	Kinda okay at html learning java and css.<br>
+ 1.	I love python (i installed it and its venomous).<br>2.	I have a dog and cat called brammetje (dog) and tommie (cat).<br>3.	I like making gui i love making gui’s (graphical user interfaces).<br>4.	Kinda okay at html learning java and css.<br>
 
 
 ## 🌐 Socials:
